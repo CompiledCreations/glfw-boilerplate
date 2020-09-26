@@ -1,4 +1,4 @@
-# GLFW Boilderplate
+# GLFW Boilerplate
 
 Quick start project to bootstrap GLFW based projects using GLAD for OpenGL all built using CMake.
 
